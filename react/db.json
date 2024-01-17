@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "title": "Updated Title",
+      "body": "Updated Body",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "Post 2",
+      "body": "Body of Post 2"
+    },
+    {
+      "id": "3",
+      "title": "Post 3",
+      "body": "Body of Post 3"
+    },
+    {
+      "id": "032f",
+      "title": "Exam",
+      "body": "post 4"
+    },
+    {
+      "id": "8472",
+      "title": "post 5",
+      "body": "post 5"
+    }
+  ]
+}
